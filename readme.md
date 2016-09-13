@@ -15,6 +15,12 @@ Documentation for the framework can be found on the [Laravel website](http://lar
 |--resources
 |--
 |--views
+|---panels
+|----bordered-table.blade.php
+|----chat.blade.php
+.
+.
+.
 |---partials
 |----footer.blade.php
 |----header.blade.php
@@ -25,6 +31,7 @@ Documentation for the framework can be found on the [Laravel website](http://lar
 .
 .
 |---layouts
-|----simple.blade.php
+|----dashboard.blade.php
+
 
 ```
