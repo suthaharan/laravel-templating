@@ -5,4 +5,4 @@
           <script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
         <![endif]-->
         
-        @stack('scriptshead')
+        @stack('scripts-extend')

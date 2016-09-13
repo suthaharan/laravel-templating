@@ -1,6 +1,6 @@
                     <ul class="sidebar-menu">
                         <li>
-                            <a href="index.html">
+                            <a href="/main">
                                 <i class="fa fa-dashboard"></i> <span>Dashboard</span>
                             </a>
                         </li>
@@ -17,7 +17,7 @@
                         </li>
 
                         <li class="active">
-                            <a href="simple.html">
+                            <a href="/table">
                                 <i class="fa fa-glass"></i> <span>Simple tables</span>
                             </a>
                         </li>
